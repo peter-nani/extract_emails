@@ -1,0 +1,6 @@
+pytesseract
+Pillow
+phonenumbers
+extract-emails
+phonenumbers
+regex
